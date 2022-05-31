@@ -1,4 +1,4 @@
-package hello.springmvc.baisc.requestmapping;
+package hello.springmvc.basic.requestmapping;
 
 
 import org.slf4j.Logger;
